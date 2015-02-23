@@ -449,9 +449,9 @@ public enum EnumDinoType {
         Plesiosaur.FoodMobList.addMob(EnumDinoFoodMob.Dodo);   
         Plesiosaur.FoodMobList.addMob(EnumDinoFoodMob.Coelacanth);   
         Plesiosaur.FoodMobList.addMob(EnumDinoFoodMob.Compsognathus);   
-        Plesiosaur.FoodMobList.addMob(EnumDinoFoodMob.Cow);   
-        Plesiosaur.FoodMobList.addMob(EnumDinoFoodMob.Sheep);   
         Plesiosaur.FoodMobList.addMob(EnumDinoFoodMob.Pig);   
+        Plesiosaur.FoodMobList.addMob(EnumDinoFoodMob.Sheep);   
+        Plesiosaur.FoodMobList.addMob(EnumDinoFoodMob.Cow);   
 
         
         Pterosaur.setItems(Items.arrow);
@@ -478,9 +478,9 @@ public enum EnumDinoType {
         Sarcosuchus.FoodMobList.addMob(EnumDinoFoodMob.Dodo);
         Sarcosuchus.FoodMobList.addMob(EnumDinoFoodMob.Coelacanth);  
         Sarcosuchus.FoodMobList.addMob(EnumDinoFoodMob.Compsognathus);   
-        Sarcosuchus.FoodMobList.addMob(EnumDinoFoodMob.Cow);   
+        Sarcosuchus.FoodMobList.addMob(EnumDinoFoodMob.Pig);   
         Sarcosuchus.FoodMobList.addMob(EnumDinoFoodMob.Sheep);   
-        Sarcosuchus.FoodMobList.addMob(EnumDinoFoodMob.Pig); 
+        Sarcosuchus.FoodMobList.addMob(EnumDinoFoodMob.Cow); 
 
         
         Spinosaurus.setItems(Fossil.skullStick);
@@ -501,6 +501,7 @@ public enum EnumDinoType {
         Spinosaurus.FoodMobList.addMob(EnumDinoFoodMob.Pig);
         Spinosaurus.FoodMobList.addMob(EnumDinoFoodMob.Sheep);   
         Spinosaurus.FoodMobList.addMob(EnumDinoFoodMob.Cow);
+        Spinosaurus.FoodMobList.addMob(EnumDinoFoodMob.Deinonychus);
         Spinosaurus.FoodMobList.addMob(EnumDinoFoodMob.Plesiosaur);
         
         
