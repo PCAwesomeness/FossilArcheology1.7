@@ -264,8 +264,8 @@ public enum EnumDinoType {
         //Items
         EnumDinoFoodItem.carnivoreItemPreset(Allosaurus);
         //Mobs
-        Allosaurus.FoodMobList.addMob(EnumDinoFoodMob.Sheep);
         Allosaurus.FoodMobList.addMob(EnumDinoFoodMob.Pig);
+        Allosaurus.FoodMobList.addMob(EnumDinoFoodMob.Sheep);
         Allosaurus.FoodMobList.addMob(EnumDinoFoodMob.Cow);
         Allosaurus.FoodMobList.addMob(EnumDinoFoodMob.Horse);
         Allosaurus.FoodMobList.addMob(EnumDinoFoodMob.Dilophosaurus);
