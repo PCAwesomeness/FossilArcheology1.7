@@ -334,6 +334,7 @@ public enum EnumDinoType {
         Deinonychus.FoodMobList.addMob(EnumDinoFoodMob.Chicken);
         Deinonychus.FoodMobList.addMob(EnumDinoFoodMob.Dodo);
         Deinonychus.FoodMobList.addMob(EnumDinoFoodMob.Pig);
+        Deinonychus.FoodMobList.addMob(EnumDinoFoodMob.Sheep);
         Deinonychus.FoodMobList.addMob(EnumDinoFoodMob.Cow);
         Deinonychus.FoodMobList.addMob(EnumDinoFoodMob.Horse);
         Deinonychus.FoodMobList.addMob(EnumDinoFoodMob.Pachycephalosaurus);
@@ -353,6 +354,7 @@ public enum EnumDinoType {
         Dilophosaurus.FoodMobList.addMob(EnumDinoFoodMob.Chicken);
         Dilophosaurus.FoodMobList.addMob(EnumDinoFoodMob.Dodo);
         Dilophosaurus.FoodMobList.addMob(EnumDinoFoodMob.Pig);
+        Dilophosaurus.FoodMobList.addMob(EnumDinoFoodMob.Sheep);
         Dilophosaurus.FoodMobList.addMob(EnumDinoFoodMob.Cow);
         Dilophosaurus.FoodMobList.addMob(EnumDinoFoodMob.Horse);
         Dilophosaurus.FoodMobList.addMob(EnumDinoFoodMob.Pachycephalosaurus);
@@ -550,6 +552,7 @@ public enum EnumDinoType {
         EnumDinoFoodItem.carnivoreItemPreset(TRex);
         //Mobs
         TRex.FoodMobList.addMob(EnumDinoFoodMob.Pig);
+        TRex.FoodMobList.addMob(EnumDinoFoodMob.Sheep);
         TRex.FoodMobList.addMob(EnumDinoFoodMob.Cow);
         TRex.FoodMobList.addMob(EnumDinoFoodMob.Horse);
         TRex.FoodMobList.addMob(EnumDinoFoodMob.Allosaurus);
